@@ -27,7 +27,7 @@ def test_integration():
     expected_output = (
         "Vor der Fahrt: Car(brand='Toyota', mileage=9500, service_dates=[])\n"
         "Nach der ersten Fahrt: Car(brand='Toyota', mileage=10100, service_dates=['2024-08-28'])\n"
-        "Service benötigt!\n"
+        "Service erforderlich!\n"
         "Nach der zweiten Fahrt: Car(brand='Toyota', mileage=10200, service_dates=['2024-08-28'])\n"
         "Service-Daten: ['2024-08-28']\n"
     )
