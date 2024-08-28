@@ -1,8 +1,32 @@
 [
   {
-    "name": "test",
-    "function": "test",
+    "name": "test_car_initialization",
+    "function": "test_car_initialization",
     "timeout": 10,
-    "points": 1
+    "points": 10
+  },
+  {
+    "name": "test_car_with_service_dates",
+    "function": "test_car_with_service_dates",
+    "timeout": 10,
+    "points": 10
+  },
+  {
+    "name": "test_add_mileage",
+    "function": "test_add_mileage",
+    "timeout": 10,
+    "points": 10
+  },
+  {
+    "name": "test_check_service",
+    "function": "test_check_service",
+    "timeout": 10,
+    "points": 10
+  },
+  {
+    "name": "test_integration",
+    "function": "test_integration",
+    "timeout": 10,
+    "points": 10
   }
 ]
