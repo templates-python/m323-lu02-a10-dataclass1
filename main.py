@@ -1,3 +1,7 @@
+"""
+This script demonstrates the usage of the Car class and the
+functions add_mileage and check_service.
+"""
 from car import Car
 
 
