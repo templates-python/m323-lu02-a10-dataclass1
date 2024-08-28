@@ -22,7 +22,7 @@ if __name__ == '__main__':
     print(f'Nach der ersten Fahrt: {my_car}')
 
     if check_service(my_car):
-        print('Service benötigt!')
+        print('Service erforderlich!')
 
     my_car = add_mileage(my_car, 100)  # Keine Änderung bei Service-Daten
     print(f'Nach der zweiten Fahrt: {my_car}')
