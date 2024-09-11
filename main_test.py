@@ -21,7 +21,7 @@ def test_check_service():
 
 def test_integration():
     # Execute the main.py script and capture the output
-    result = subprocess.run(['python3', 'main.py'], capture_output=True, text=True)
+    result = subprocess.run(['python', 'main.py'], capture_output=True, text=True)
 
     # Expected output
     expected_output = (
