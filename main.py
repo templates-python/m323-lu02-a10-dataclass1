@@ -2,7 +2,7 @@ def add_mileage(car, distance):
     """
     Returns a new Car instance with updated mileage and possibly an updated service date.
     """
-    #todo: Implementiere die Funktion
+    # todo: Implementiere die Funktion
     pass
 
 
@@ -10,7 +10,7 @@ def check_service(car):
     """
     Checks if the car's mileage exceeds 10,000 km.
     """
-    #todo: Implementiere die Funktion
+    # todo: Implementiere die Funktion
     pass
 
 
