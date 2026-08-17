@@ -1,3 +1,8 @@
+"""Immutable Dataclass.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu02/aufgaben/dataclass1
+"""
+
 def add_mileage(car, distance):
     """
     Returns a new Car instance with updated mileage and possibly an updated service date.
